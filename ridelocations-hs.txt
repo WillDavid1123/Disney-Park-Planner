@@ -1,0 +1,19 @@
+Entrance,271,581
+Mickey and Minnie's Runaway Railway,278,367
+Indiana Jones Epic Stunt Spectacular!,139,465
+Star Tours - The Adventures Continue,65,378
+Vacation Fun,151,414
+For the First Time in Forever: A "Frozen" Sing-Along Celebration,199,414
+Muppet-Vision 3D,76,293
+Star Wars: Rise of the Resistance,129,220
+Millennium Falcon: Smuggler's Run,137,76
+Alien Swirling Saucers,289,115
+Slinky Dog Dash,391,138
+Toy Story Mania!,323,220
+Walt Disney Presents,324,325
+Disney Junior Play & Dance,366,441
+Rock 'n' Roller Coaster Starring Aerosmith,501,551
+Lightning McQueen's Racing Academy,523,556
+The Twilight Zone Tower of Terror,425,600
+Fantasmic!,392,572
+Beauty and the Beast,367,566

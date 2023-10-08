@@ -1,0 +1,19 @@
+Entrance,263,679
+Spaceship Earth,263,612
+Journey into Imagination with Figment,401,445
+Guardians of the Galaxy: Cosmic Rewind,173,574
+Mission: SPACE,105,515
+Test Track,152,458
+Soarin' Around the World,438,492
+Living with the Land,453,521
+The Seas with Nemo & Friends,340,585
+Gran Fiesta Tour Starring The Three Caballeros,130,366
+Frozen Ever After,66,298
+Remy's Ratatouille Adventure,468,83
+Disney & Pixar Short Film Festival,350,412
+Awesome Planet,435,534
+Turtle Talk with Crush,354,610
+Reflections of China,86,223
+The American Adventure,266,74
+Palais du cinema,470,127
+Canada Far and Wide in Circle-Vision 360,455,386
